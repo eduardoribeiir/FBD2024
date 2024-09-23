@@ -11,3 +11,6 @@ Tela de Empréstimo e Devolução: para gerenciar o processo de retirada e devol
 Tela de Reserva (Aluno/Professor): permitindo que alunos e professores realizem reservas de livros.
 Tela de Pagamento de Multa: para visualizar e pagar multas geradas por devoluções atrasadas.
 Essas entregas proporcionaram uma aplicação funcional e eficiente, com uma base sólida para o gerenciamento de bibliotecas.
+
+Link da apresentação:
+https://drive.google.com/drive/folders/1rlQBN1oZIkglIB3_dBNQm8mi5-zMuRIo?usp=drive_link
