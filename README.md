@@ -1,4 +1,5 @@
-# FBD2024
+# Fundamentos de Banco de Dados
+## sistema de gerenciamento de bibliotecas para instituições educacionais.
 Este projeto consiste no desenvolvimento de um sistema de gerenciamento de bibliotecas para instituições educacionais. Ele foi dividido em três etapas principais:
 
 Definição da Aplicação e Levantamento de Requisitos: Nesta fase, definimos os requisitos funcionais do sistema, incluindo cadastro de livros e usuários, gestão de empréstimos, devoluções, reservas, multas, geração de relatórios e notificações. Também criamos um modelo de dados utilizando diagramas ER/EER para representar as entidades e seus relacionamentos.
